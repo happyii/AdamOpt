@@ -187,11 +187,16 @@ AdamOpt is at an early stage — the core foundation is solid, and we need the c
 
 ## Reference
 
-Based on the research paper:
+This project is inspired by and built upon the following research:
 
-> **Textual Frequency Law on Large Language Models** (2026)
+> **Adam's Law: Textual Frequency Law on Large Language Models**
+>
+> Hongyuan Adam Lu, Z. L., Victor Wei, Zefan Zhang, Zhao Hong, Qiqi Xiang, Bowen Cao, Wai Lam
 >
 > *"Semantically equivalent texts with higher frequency in LLM pretraining distributions consistently achieve better performance across all tasks, models, and languages."*
+
+- **Paper**: [Adam's Law: Textual Frequency Law on Large Language Models](https://huggingface.co/papers/2505.07288)
+- **Official Code**: [github.com/HongyuanLuke/frequencylaw](https://github.com/HongyuanLuke/frequencylaw)
 
 Key findings: DeepSeek-V3 math accuracy 63.55% → 71.54%; Llama3.3-70B 80.49% → 88.75%; 99/100 language pairs improved in machine translation.
 
