@@ -195,10 +195,9 @@ This project is inspired by and built upon the following research:
 >
 > *"Semantically equivalent texts with higher frequency in LLM pretraining distributions consistently achieve better performance across all tasks, models, and languages."*
 
-- **Paper**: [Adam's Law: Textual Frequency Law on Large Language Models](https://huggingface.co/papers/2505.07288)
+- **Paper**: [Adam's Law: Textual Frequency Law on Large Language Models](https://arxiv.org/abs/2604.02176)
 - **Official Code**: [github.com/HongyuanLuke/frequencylaw](https://github.com/HongyuanLuke/frequencylaw)
 
-Key findings: DeepSeek-V3 math accuracy 63.55% → 71.54%; Llama3.3-70B 80.49% → 88.75%; 99/100 language pairs improved in machine translation.
 
 ## Contributing
 
